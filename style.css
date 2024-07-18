@@ -1,0 +1,23 @@
+nav{
+    background-color: greenyellow;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: rgb(2, 82, 2);
+    border-radius: 5px;
+}
+.card:hover{
+    opacity: .7;
+    cursor: pointer;
+    
+}
+.btn{
+    border: 2px solid green;
+    box-shadow:  2px 2px whitesmoke;
+}
+
+/* .card{
+    filter: grayscale(100%);
+}
+.card:hover{
+    filter: grayscale(0%);
+} */
